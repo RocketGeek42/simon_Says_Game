@@ -1,3 +1,4 @@
+// Set variables
 let order = [];
 let playerOrder = [];
 let flash;
@@ -10,6 +11,7 @@ let noise = true;
 let on = false;
 let win;
 
+// Set constants
 const turnCounter = document.querySelector("#turn");
 const topLeft = document.querySelector("#topleft");
 const topRight = document.querySelector("#topright");
